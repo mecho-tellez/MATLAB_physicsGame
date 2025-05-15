@@ -1,0 +1,66 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="1101459339" file="/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/projectFiles/ENGR Dash.prj" location="/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/projectFiles" name="ENGR Dash" target="target.mlapps" target-name="Package App">
+    <param.appname>ENGR Dash</param.appname>
+    <param.authnamewatermark>Ernesto &amp; Shiv</param.authnamewatermark>
+    <param.email />
+    <param.company>Sierra College ENGR 220</param.company>
+    <param.icon />
+    <param.icons />
+    <param.summary>Geometry dash but engineering themed</param.summary>
+    <param.description>Have fun!</param.description>
+    <param.screenshot>/private/var/folders/vx/01w1spvj2_7_gpsbf4_hv3mc0000gn/T/tp4bb97b36_9727_426d_ad04_f2144d247ba6.png</param.screenshot>
+    <param.version>1.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame</param.output>
+    <param.guid>e407df07-15c4-4f6e-b234-8f51c7f70ca3</param.guid>
+    <unset>
+      <param.email />
+      <param.icon />
+      <param.icons />
+      <param.version />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}/Geodash.mlapp</file>
+    </fileset.main>
+    <fileset.depfun>
+      <file>/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/Gameover.png</file>
+      <file>/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/background.png</file>
+      <file>/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/death sound.mp3</file>
+      <file>/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/engineering dash title.png</file>
+      <file>/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/mainTheme.mp3</file>
+      <file>/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/scoreUp.mp3</file>
+    </fileset.depfun>
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff" name="MATLAB_physicsGame" optional="false">/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>/Applications/MATLAB_R2024b.app</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>true</unix>
+      <mac>true</mac>
+      <windows>false</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>13.7.5</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>maci64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
