@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="3132201756" file="/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/projectFiles/ENGR Dash.prj" location="/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/projectFiles" name="ENGR Dash" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="1445300366" file="/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/projectFiles/ENGR Dash.prj" location="/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/projectFiles" name="ENGR Dash" target="target.mlapps" target-name="Package App">
     <param.appname>ENGR Dash</param.appname>
     <param.authnamewatermark>Ernesto &amp; Shiv</param.authnamewatermark>
     <param.email />
@@ -8,7 +8,7 @@
     <param.icons />
     <param.summary>Geometry dash with an engineering based twist.</param.summary>
     <param.description>Have Fun!</param.description>
-    <param.screenshot>/private/var/folders/vx/01w1spvj2_7_gpsbf4_hv3mc0000gn/T/tp64a6ac06_2b72_44f5_87b4_8a677262bde2.png</param.screenshot>
+    <param.screenshot>/private/var/folders/vx/01w1spvj2_7_gpsbf4_hv3mc0000gn/T/tp3e06a713_961d_4c03_801f_08f7e10d7e10.png</param.screenshot>
     <param.version>1.0</param.version>
     <param.products.name />
     <param.products.id />
