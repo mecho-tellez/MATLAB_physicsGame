@@ -1,21 +1,21 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="1854933729" file="/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/projectFiles/ENGR Dash.prj" location="/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/projectFiles" name="ENGR Dash" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="3132201756" file="/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/projectFiles/ENGR Dash.prj" location="/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/projectFiles" name="ENGR Dash" target="target.mlapps" target-name="Package App">
     <param.appname>ENGR Dash</param.appname>
     <param.authnamewatermark>Ernesto &amp; Shiv</param.authnamewatermark>
     <param.email />
     <param.company>Sierra College ENGR 220</param.company>
     <param.icon />
     <param.icons />
-    <param.summary>Geometry dash but engineering themed</param.summary>
-    <param.description>Have fun!</param.description>
-    <param.screenshot>/private/var/folders/vx/01w1spvj2_7_gpsbf4_hv3mc0000gn/T/tpaf4e8afb_6820_4c01_b06c_cb7300bfe584.png</param.screenshot>
+    <param.summary>Geometry dash with an engineering based twist.</param.summary>
+    <param.description>Have Fun!</param.description>
+    <param.screenshot>/private/var/folders/vx/01w1spvj2_7_gpsbf4_hv3mc0000gn/T/tp64a6ac06_2b72_44f5_87b4_8a677262bde2.png</param.screenshot>
     <param.version>1.0</param.version>
     <param.products.name />
     <param.products.id />
     <param.products.version />
     <param.platforms />
-    <param.output>/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame</param.output>
-    <param.guid>e407df07-15c4-4f6e-b234-8f51c7f70ca3</param.guid>
+    <param.output>/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff</param.output>
+    <param.guid>4cabd076-c6d4-46fd-86cd-d699a2a3156d</param.guid>
     <unset>
       <param.email />
       <param.icon />
@@ -37,10 +37,19 @@
       <file>/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/mainTheme.mp3</file>
       <file>/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/scoreUp.mp3</file>
     </fileset.depfun>
-    <fileset.resources />
+    <fileset.resources>
+      <file>/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/Capacitorhorz.png</file>
+      <file>/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/Capacitorvert.png</file>
+      <file>/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/Hole1.png</file>
+      <file>/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/Inductorhorz.png</file>
+      <file>/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/Inductorvert.png</file>
+      <file>/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/Resistorhorz.png</file>
+      <file>/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/Resistorvert.png</file>
+      <file>/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame/Truss1.png</file>
+    </fileset.resources>
     <fileset.package />
     <build-deliverables>
-      <file location="/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff" name="MATLAB_physicsGame" optional="false">/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff/MATLAB_physicsGame</file>
+      <file location="/Users/pinkalpatel/Documents/MATLAB" name="MATLAB app stuff" optional="false">/Users/pinkalpatel/Documents/MATLAB/MATLAB app stuff</file>
     </build-deliverables>
     <workflow />
     <matlab>
